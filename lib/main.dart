@@ -83,7 +83,7 @@ class _MyAppState extends State<MyApp> {
 
   //Map loads faster than flutter can get GPS coordinates, so it has to be have priority, Getting
   //User location is only takes long on startup for some reason, otherwise it updates fast.
-  // it also figure out what county you are in and displays it accordingly
+
   _getLocationMemorize() {
     return this._memoizer.runOnce(() async {
       LatLng intialPosition = await getLocation();
