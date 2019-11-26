@@ -45,7 +45,7 @@ class _MyAppState extends State<MyApp> {
         home: Scaffold(
       appBar: AppBar(
         title: Text("PoliMap"),
-        backgroundColor: Colors.green[500],
+        backgroundColor: Colors.red[500],
       ),
 
       body: Stack(
