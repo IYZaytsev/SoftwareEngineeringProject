@@ -1,0 +1,1004 @@
+{
+    "elections": [
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MATTHEWS MAYOR",
+            "name": "Paul Bailey",
+            "lat": 35.1445808410492,
+            "lng": -80.6959191589508,
+            "city": "MATTHEWS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MATTHEWS MAYOR",
+            "name": "John Higdon",
+            "lat": 35.19206138338579,
+            "lng": -80.6484386166142,
+            "city": "MATTHEWS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MATTHEWS MAYOR",
+            "name": "Jason Majewski",
+            "lat": 35.166779193807194,
+            "lng": -80.6737208061928,
+            "city": "MATTHEWS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "US HOUSE OF REPRESENTATIVES DISTRICT 09",
+            "name": "Dan McCready",
+            "lat": 35.252439838846705,
+            "lng": -80.8177601611533,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "US HOUSE OF REPRESENTATIVES DISTRICT 09",
+            "name": "Jeff Scott",
+            "lat": 35.25672453149652,
+            "lng": -80.81347546850348,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "US HOUSE OF REPRESENTATIVES DISTRICT 09",
+            "name": "Allen Smith",
+            "lat": 35.29326274360067,
+            "lng": -80.77693725639934,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "US HOUSE OF REPRESENTATIVES DISTRICT 09",
+            "name": "Dan Bishop",
+            "lat": 35.29028753824512,
+            "lng": -80.77991246175489,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "US HOUSE OF REPRESENTATIVES DISTRICT 09",
+            "name": "Stevie Rivenbark Hull",
+            "lat": 35.60537812137188,
+            "lng": -78.77892187862811,
+            "city": "FUQUAY-VARINA"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "US HOUSE OF REPRESENTATIVES DISTRICT 09",
+            "name": "Matthew Ridenhour",
+            "lat": 35.26872178593521,
+            "lng": -80.80147821406479,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "US HOUSE OF REPRESENTATIVES DISTRICT 09",
+            "name": "Stony Rushing",
+            "lat": 35.017272268746765,
+            "lng": -80.41622773125324,
+            "city": "WINGATE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "US HOUSE OF REPRESENTATIVES DISTRICT 09",
+            "name": "Fern Shubert",
+            "lat": 35.03399785804857,
+            "lng": -80.32150214195144,
+            "city": "MARSHVILLE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "US HOUSE OF REPRESENTATIVES DISTRICT 09",
+            "name": "Albert Lee Wiley, Jr.",
+            "lat": 34.16561036897406,
+            "lng": -76.83728963102594,
+            "city": "SALTER PATH"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "US HOUSE OF REPRESENTATIVES DISTRICT 09",
+            "name": "Chris Anglin",
+            "lat": 35.85244893423856,
+            "lng": -78.56535106576145,
+            "city": "RALEIGH"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "US HOUSE OF REPRESENTATIVES DISTRICT 09",
+            "name": "Dan Bishop",
+            "lat": 35.29663729810995,
+            "lng": -80.77356270189006,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "US HOUSE OF REPRESENTATIVES DISTRICT 09",
+            "name": "Leigh Thomas Brown",
+            "lat": 40.31538118315985,
+            "lng": -76.84451881684015,
+            "city": "HARRISBURG"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "US HOUSE OF REPRESENTATIVES DISTRICT 09",
+            "name": "Kathie C. Day",
+            "lat": 35.50754833212395,
+            "lng": -80.83935166787606,
+            "city": "CORNELIUS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "US HOUSE OF REPRESENTATIVES DISTRICT 09",
+            "name": "Gary Dunn",
+            "lat": 35.163896471867375,
+            "lng": -80.67660352813262,
+            "city": "MATTHEWS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE MAYOR",
+            "name": "Roderick Davis",
+            "lat": 35.300497933631064,
+            "lng": -80.76970206636895,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE MAYOR",
+            "name": "Vi Lyles",
+            "lat": 35.30618006684517,
+            "lng": -80.76401993315483,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE MAYOR",
+            "name": "Tigress Sydney Acute McDaniel",
+            "lat": 35.282610325669154,
+            "lng": -80.78758967433085,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE MAYOR",
+            "name": "Joel Odom",
+            "lat": 35.30397490401263,
+            "lng": -80.76622509598738,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE MAYOR",
+            "name": "Lucille Puckett",
+            "lat": 35.28015300297863,
+            "lng": -80.79004699702138,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL AT-LARGE",
+            "name": "Dimple Ajmera",
+            "lat": 35.283979497140606,
+            "lng": -80.7862205028594,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL AT-LARGE",
+            "name": "Julie Eiselt",
+            "lat": 35.25891850320954,
+            "lng": -80.81128149679047,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL AT-LARGE",
+            "name": "Jorge Millares",
+            "lat": 35.306100849564466,
+            "lng": -80.76409915043554,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL AT-LARGE",
+            "name": "James (Smuggie) Mitchell",
+            "lat": 35.3046446701533,
+            "lng": -80.7655553298467,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL AT-LARGE",
+            "name": "LaWana Slack-Mayfield",
+            "lat": 35.255472385860486,
+            "lng": -80.81472761413953,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL AT-LARGE",
+            "name": "Chad Stachowicz",
+            "lat": 35.29790340557901,
+            "lng": -80.772296594421,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL AT-LARGE",
+            "name": "Braxton David Winston II",
+            "lat": 35.296123781505926,
+            "lng": -80.77407621849409,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 01",
+            "name": "Larken Egleston",
+            "lat": 35.25211282353636,
+            "lng": -80.81808717646365,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 01",
+            "name": "Sean Smith",
+            "lat": 35.29754534290646,
+            "lng": -80.77265465709354,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 02",
+            "name": "Jeremy Arey",
+            "lat": 35.30483250896543,
+            "lng": -80.76536749103458,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 02",
+            "name": "Jessica C. Davis",
+            "lat": 35.30042878008484,
+            "lng": -80.76977121991517,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 02",
+            "name": "Malcolm Graham",
+            "lat": 35.25279045402003,
+            "lng": -80.81740954597998,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 02",
+            "name": "Antoinette (Toni) Green",
+            "lat": 35.30204306891974,
+            "lng": -80.76815693108027,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 03",
+            "name": "Terry Brown",
+            "lat": 35.25821020968981,
+            "lng": -80.81198979031021,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 03",
+            "name": "Caleb Theodros",
+            "lat": 35.30326531377942,
+            "lng": -80.76693468622058,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 03",
+            "name": "Victoria Watlington",
+            "lat": 35.30610535074228,
+            "lng": -80.76409464925773,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 04",
+            "name": "Richmond V. Baker",
+            "lat": 35.27244481408569,
+            "lng": -80.79775518591431,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 04",
+            "name": "Gabriel (Gabe) Cartagena",
+            "lat": 35.26139884706334,
+            "lng": -80.80880115293667,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 04",
+            "name": "Charlene Henderson El",
+            "lat": 35.30419194817532,
+            "lng": -80.76600805182468,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 04",
+            "name": "Renee Perkins Johnson",
+            "lat": 35.28097794841692,
+            "lng": -80.7892220515831,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 04",
+            "name": "Charles Robinson",
+            "lat": 35.30329504348388,
+            "lng": -80.76690495651613,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 04",
+            "name": "Sean Thompson",
+            "lat": 35.289031949890905,
+            "lng": -80.7811680501091,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 05",
+            "name": "Matt Newton",
+            "lat": 35.26875121726303,
+            "lng": -80.80144878273697,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 05",
+            "name": "Vinroy Washington Reid",
+            "lat": 35.262955269936214,
+            "lng": -80.80724473006379,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 05",
+            "name": "Mark L. Vincent",
+            "lat": 35.256471409195846,
+            "lng": -80.81372859080416,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 07",
+            "name": "Ed Driggs",
+            "lat": 35.280476355489334,
+            "lng": -80.78972364451067,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 07",
+            "name": "Victoria Nwasike",
+            "lat": 35.2692683952374,
+            "lng": -80.80093160476261,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE MAYOR",
+            "name": "David Michael Rice",
+            "lat": 35.302396437795394,
+            "lng": -80.76780356220462,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL AT-LARGE",
+            "name": "Joshua Richardson",
+            "lat": 35.27492415326987,
+            "lng": -80.79527584673014,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 02",
+            "name": "Jacob Robinson",
+            "lat": 35.26848613507623,
+            "lng": -80.80171386492378,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 04",
+            "name": "Brandon Pierce",
+            "lat": 35.301449848028625,
+            "lng": -80.76875015197137,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 06",
+            "name": "Tariq Scott Bokhari",
+            "lat": 35.26435954538065,
+            "lng": -80.80584045461936,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CITY OF CHARLOTTE CITY COUNCIL DISTRICT 06",
+            "name": "Gina Navarrete",
+            "lat": 35.28970132378006,
+            "lng": -80.78049867621995,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CHARLOTTE-MECKLENBURG SCHOOLS BOARD OF EDUCATION AT-LARGE",
+            "name": "Annette Albright",
+            "lat": 35.30342622001027,
+            "lng": -80.76677377998973,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CHARLOTTE-MECKLENBURG SCHOOLS BOARD OF EDUCATION AT-LARGE",
+            "name": "Elyse Dashew",
+            "lat": 35.29777162491505,
+            "lng": -80.77242837508496,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CHARLOTTE-MECKLENBURG SCHOOLS BOARD OF EDUCATION AT-LARGE",
+            "name": "Jennifer De La Jara",
+            "lat": 35.54109011695642,
+            "lng": -80.80690988304357,
+            "city": "DAVIDSON"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CHARLOTTE-MECKLENBURG SCHOOLS BOARD OF EDUCATION AT-LARGE",
+            "name": "Gregory R. Denlea",
+            "lat": 35.256851431743925,
+            "lng": -80.81334856825609,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CHARLOTTE-MECKLENBURG SCHOOLS BOARD OF EDUCATION AT-LARGE",
+            "name": "Jenna Moorehead",
+            "lat": 35.247541037145844,
+            "lng": -80.82265896285416,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CHARLOTTE-MECKLENBURG SCHOOLS BOARD OF EDUCATION AT-LARGE",
+            "name": "Donna J. Parker-Tate",
+            "lat": 35.27668814990999,
+            "lng": -80.79351185009001,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CHARLOTTE-MECKLENBURG SCHOOLS BOARD OF EDUCATION AT-LARGE",
+            "name": "Jordan Pineda",
+            "lat": 35.28972656312416,
+            "lng": -80.78047343687585,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CHARLOTTE-MECKLENBURG SCHOOLS BOARD OF EDUCATION AT-LARGE",
+            "name": "Olivia Scott",
+            "lat": 35.24992853465766,
+            "lng": -80.82027146534234,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CHARLOTTE-MECKLENBURG SCHOOLS BOARD OF EDUCATION AT-LARGE",
+            "name": "Lenora Shipp",
+            "lat": 35.253073478882406,
+            "lng": -80.8171265211176,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CHARLOTTE-MECKLENBURG SCHOOLS BOARD OF EDUCATION AT-LARGE",
+            "name": "Stephanie M. Sneed",
+            "lat": 35.29617295826356,
+            "lng": -80.77402704173645,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CHARLOTTE-MECKLENBURG SCHOOLS BOARD OF EDUCATION AT-LARGE",
+            "name": "Duncan St. Clair",
+            "lat": 35.26265341457413,
+            "lng": -80.80754658542588,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CHARLOTTE-MECKLENBURG SCHOOLS BOARD OF EDUCATION AT-LARGE",
+            "name": "Queen Thompson",
+            "lat": 35.27823668198795,
+            "lng": -80.79196331801207,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "CHARLOTTE-MECKLENBURG SCHOOLS BOARD OF EDUCATION AT-LARGE",
+            "name": "Monty Witherspoon",
+            "lat": 35.2985445003063,
+            "lng": -80.77165549969371,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF CORNELIUS MAYOR",
+            "name": "Woody Washam, Jr.",
+            "lat": 35.51077538134266,
+            "lng": -80.83612461865734,
+            "city": "CORNELIUS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF CORNELIUS BOARD OF COMMISSIONERS",
+            "name": "Denis P. Bilodeau",
+            "lat": 35.55401497024872,
+            "lng": -80.79288502975129,
+            "city": "CORNELIUS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF CORNELIUS BOARD OF COMMISSIONERS",
+            "name": "Ava Callender",
+            "lat": 35.56077193968699,
+            "lng": -80.78612806031302,
+            "city": "CORNELIUS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF CORNELIUS BOARD OF COMMISSIONERS",
+            "name": "Jim Duke",
+            "lat": 35.52768863908875,
+            "lng": -80.81921136091125,
+            "city": "CORNELIUS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF CORNELIUS BOARD OF COMMISSIONERS",
+            "name": "Dave Gilroy",
+            "lat": 35.53943930301925,
+            "lng": -80.80746069698075,
+            "city": "CORNELIUS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF CORNELIUS BOARD OF COMMISSIONERS",
+            "name": "Diane Gilroy",
+            "lat": 35.52055818234487,
+            "lng": -80.82634181765513,
+            "city": "CORNELIUS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF CORNELIUS BOARD OF COMMISSIONERS",
+            "name": "Michael (Mike) Miltich",
+            "lat": 35.56219692572676,
+            "lng": -80.78470307427324,
+            "city": "CORNELIUS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF CORNELIUS BOARD OF COMMISSIONERS",
+            "name": "Thurman Ross, Jr.",
+            "lat": 35.550215708732765,
+            "lng": -80.79668429126724,
+            "city": "CORNELIUS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF CORNELIUS BOARD OF COMMISSIONERS",
+            "name": "Tricia Sisson",
+            "lat": 35.56280405099695,
+            "lng": -80.78409594900305,
+            "city": "CORNELIUS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF DAVIDSON MAYOR",
+            "name": "Russell B. (Rusty) Knox, Jr.",
+            "lat": 35.5466181708731,
+            "lng": -80.8013818291269,
+            "city": "DAVIDSON"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF DAVIDSON BOARD OF COMMISSIONERS",
+            "name": "Jane Campbell",
+            "lat": 35.530738424619955,
+            "lng": -80.81726157538004,
+            "city": "DAVIDSON"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF DAVIDSON BOARD OF COMMISSIONERS",
+            "name": "Steve Cook",
+            "lat": 35.53445212867933,
+            "lng": -80.81354787132067,
+            "city": "DAVIDSON"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF DAVIDSON BOARD OF COMMISSIONERS",
+            "name": "Matthew Fort",
+            "lat": 35.52200322917981,
+            "lng": -80.82599677082018,
+            "city": "DAVIDSON"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF DAVIDSON BOARD OF COMMISSIONERS",
+            "name": "Jim Fuller",
+            "lat": 35.52671026572157,
+            "lng": -80.82128973427842,
+            "city": "DAVIDSON"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF DAVIDSON BOARD OF COMMISSIONERS",
+            "name": "Autumn Rierson Michael",
+            "lat": 35.5599346844247,
+            "lng": -80.7880653155753,
+            "city": "DAVIDSON"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF DAVIDSON BOARD OF COMMISSIONERS",
+            "name": "David Sitton",
+            "lat": 35.55478924755984,
+            "lng": -80.79321075244015,
+            "city": "DAVIDSON"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF DAVIDSON BOARD OF COMMISSIONERS",
+            "name": "John Stroup",
+            "lat": 35.566262373075176,
+            "lng": -80.78173762692481,
+            "city": "DAVIDSON"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF HUNTERSVILLE MAYOR",
+            "name": "John Aneralla",
+            "lat": 35.445012266837956,
+            "lng": -80.80858773316204,
+            "city": "HUNTERSVILLE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF HUNTERSVILLE MAYOR",
+            "name": "Rob Kidwell",
+            "lat": 35.43678019448373,
+            "lng": -80.81681980551627,
+            "city": "HUNTERSVILLE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF HUNTERSVILLE BOARD OF COMMISSIONERS",
+            "name": "Melinda Bales",
+            "lat": 35.462657780375295,
+            "lng": -80.79094221962471,
+            "city": "HUNTERSVILLE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF HUNTERSVILLE BOARD OF COMMISSIONERS",
+            "name": "Dan Boone",
+            "lat": 35.45299391625486,
+            "lng": -80.80060608374514,
+            "city": "HUNTERSVILLE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF HUNTERSVILLE BOARD OF COMMISSIONERS",
+            "name": "Jenn Davis",
+            "lat": 35.464169270953164,
+            "lng": -80.78943072904684,
+            "city": "HUNTERSVILLE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF HUNTERSVILLE BOARD OF COMMISSIONERS",
+            "name": "Brian Hines",
+            "lat": 35.47619833153631,
+            "lng": -80.7774016684637,
+            "city": "HUNTERSVILLE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF HUNTERSVILLE BOARD OF COMMISSIONERS",
+            "name": "Lance Munger",
+            "lat": 35.48014619902438,
+            "lng": -80.77345380097562,
+            "city": "HUNTERSVILLE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF HUNTERSVILLE BOARD OF COMMISSIONERS",
+            "name": "Derek Partee",
+            "lat": 35.4888724943399,
+            "lng": -80.76472750566009,
+            "city": "HUNTERSVILLE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF HUNTERSVILLE BOARD OF COMMISSIONERS",
+            "name": "Stacy Phillips",
+            "lat": 35.43915336329311,
+            "lng": -80.81444663670689,
+            "city": "HUNTERSVILLE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF HUNTERSVILLE BOARD OF COMMISSIONERS",
+            "name": "Joe Sailers",
+            "lat": 35.43898148094975,
+            "lng": -80.81461851905024,
+            "city": "HUNTERSVILLE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF HUNTERSVILLE BOARD OF COMMISSIONERS",
+            "name": "Nick Walsh",
+            "lat": 35.46600678785799,
+            "lng": -80.78759321214201,
+            "city": "HUNTERSVILLE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MATTHEWS BOARD OF COMMISSIONERS",
+            "name": "Ben Bash",
+            "lat": 35.19211459829231,
+            "lng": -80.64838540170769,
+            "city": "MATTHEWS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MATTHEWS BOARD OF COMMISSIONERS",
+            "name": "Dave Bland",
+            "lat": 35.17890000418303,
+            "lng": -80.66159999581697,
+            "city": "MATTHEWS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MATTHEWS BOARD OF COMMISSIONERS",
+            "name": "Allen Crosby",
+            "lat": 35.139981557814174,
+            "lng": -80.70051844218582,
+            "city": "MATTHEWS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MATTHEWS BOARD OF COMMISSIONERS",
+            "name": "Barbara Dement",
+            "lat": 35.14669714632451,
+            "lng": -80.69380285367548,
+            "city": "MATTHEWS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MATTHEWS BOARD OF COMMISSIONERS",
+            "name": "Renee Garner",
+            "lat": 35.14180516883727,
+            "lng": -80.69869483116273,
+            "city": "MATTHEWS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MATTHEWS BOARD OF COMMISSIONERS",
+            "name": "Gina Hoover",
+            "lat": 35.17195608042569,
+            "lng": -80.6685439195743,
+            "city": "MATTHEWS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MATTHEWS BOARD OF COMMISSIONERS",
+            "name": "Ken McCool",
+            "lat": 35.18497459142818,
+            "lng": -80.65552540857182,
+            "city": "MATTHEWS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MATTHEWS BOARD OF COMMISSIONERS",
+            "name": "Jeff A. Miller",
+            "lat": 35.16607159160712,
+            "lng": -80.67442840839287,
+            "city": "MATTHEWS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MATTHEWS BOARD OF COMMISSIONERS",
+            "name": "Mark Tofano",
+            "lat": 35.187386017758506,
+            "lng": -80.65311398224148,
+            "city": "MATTHEWS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MATTHEWS BOARD OF COMMISSIONERS",
+            "name": "John R. Urban",
+            "lat": 35.19409014548759,
+            "lng": -80.6464098545124,
+            "city": "MATTHEWS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MATTHEWS BOARD OF COMMISSIONERS",
+            "name": "Larry Whitley",
+            "lat": 35.196380384468036,
+            "lng": -80.64411961553195,
+            "city": "MATTHEWS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MINT HILL MAYOR",
+            "name": "Richard (Fig) Newton",
+            "lat": 35.260671858422825,
+            "lng": -80.80952814157719,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MINT HILL MAYOR",
+            "name": "Brad A. Simmons",
+            "lat": 35.26549929861756,
+            "lng": -80.80470070138244,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MINT HILL MAYOR",
+            "name": "Karen Harvey Trauner",
+            "lat": 35.256092703517865,
+            "lng": -80.81410729648213,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MINT HILL BOARD OF COMMISSIONERS",
+            "name": "Beverly Cannaday",
+            "lat": 35.29619656202907,
+            "lng": -80.77400343797095,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MINT HILL BOARD OF COMMISSIONERS",
+            "name": "Richard M. Cochrane",
+            "lat": 35.280240798577154,
+            "lng": -80.78995920142285,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MINT HILL BOARD OF COMMISSIONERS",
+            "name": "Dale Dalton",
+            "lat": 35.258591302231395,
+            "lng": -80.81160869776862,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MINT HILL BOARD OF COMMISSIONERS",
+            "name": "Jessi Healey",
+            "lat": 35.30216075282135,
+            "lng": -80.76803924717865,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MINT HILL BOARD OF COMMISSIONERS",
+            "name": "Patrick Holton",
+            "lat": 35.26382926227315,
+            "lng": -80.80637073772687,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF MINT HILL BOARD OF COMMISSIONERS",
+            "name": "Tony Long",
+            "lat": 35.253221520180354,
+            "lng": -80.81697847981965,
+            "city": "CHARLOTTE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF PINEVILLE MAYOR",
+            "name": "John (Jack) Edwards",
+            "lat": 35.15926664781483,
+            "lng": -80.81623335218517,
+            "city": "PINEVILLE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF PINEVILLE TOWN COUNCIL",
+            "name": "L.R. (Les) Gladden",
+            "lat": 35.141208010393896,
+            "lng": -80.83429198960611,
+            "city": "PINEVILLE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF PINEVILLE TOWN COUNCIL",
+            "name": "Bolyn McClung",
+            "lat": 35.15770688957972,
+            "lng": -80.81779311042028,
+            "city": "PINEVILLE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF PINEVILLE TOWN COUNCIL",
+            "name": "Christopher C. McDonough",
+            "lat": 35.11826654320547,
+            "lng": -80.85723345679453,
+            "city": "PINEVILLE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF PINEVILLE TOWN COUNCIL",
+            "name": "Amelia Stinson-Wesley",
+            "lat": 35.14027854528826,
+            "lng": -80.83522145471174,
+            "city": "PINEVILLE"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF STALLINGS COUNCIL DISTRICT 04",
+            "name": "Heather Grooms",
+            "lat": 35.15359810456091,
+            "lng": -80.68690189543908,
+            "city": "MATTHEWS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF STALLINGS COUNCIL DISTRICT 04",
+            "name": "Shawna Steele",
+            "lat": 35.17018639923957,
+            "lng": -80.67031360076042,
+            "city": "MATTHEWS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF STALLINGS COUNCIL DISTRICT 05",
+            "name": "Steven Ayers",
+            "lat": 35.194870386212436,
+            "lng": -80.64562961378756,
+            "city": "MATTHEWS"
+        },
+        {
+            "county": "MECKLENBURG",
+            "position": "TOWN OF STALLINGS COUNCIL DISTRICT 05",
+            "name": "Billy Birt, Jr.",
+            "lat": 35.16898137281658,
+            "lng": -80.67151862718342,
+            "city": "MATTHEWS"
+        }
+    ]
+}
